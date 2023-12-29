@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TheLastWizard.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nikon\Documents\GitHub\Last-Wizard\TheLastWizard\Intermediate\Build\Win64\x64\TheLastWizardEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\nikon\Documents\GitHub\Last-Wizard\TheLastWizard\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheLastWizard\TheLastWizard.cpp.obj"
+"C:\Users\nikon\Documents\GitHub\Last-Wizard\TheLastWizard\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheLastWizard\Default.rc2.res"
+/OUT:"C:\Users\nikon\Documents\GitHub\Last-Wizard\TheLastWizard\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheLastWizard\UnrealEditor-TheLastWizard.lib"

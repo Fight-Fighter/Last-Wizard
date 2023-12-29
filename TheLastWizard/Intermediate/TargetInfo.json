@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheLastWizard",
+			"Path": "..\\Source\\TheLastWizard.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheLastWizardEditor",
+			"Path": "..\\Source\\TheLastWizardEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

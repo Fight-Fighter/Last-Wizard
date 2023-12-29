@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nikon\\documents\\github\\last-wizard\\thelastwizard\\source\\thelastwizard\\thelastwizard.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nikon\\documents\\github\\last-wizard\\thelastwizard\\intermediate\\build\\win64\\x64\\thelastwizardeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nikon\\documents\\github\\last-wizard\\thelastwizard\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thelastwizard\\definitions.thelastwizard.h",
+            "c:\\users\\nikon\\documents\\github\\last-wizard\\thelastwizard\\source\\thelastwizard\\thelastwizard.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
